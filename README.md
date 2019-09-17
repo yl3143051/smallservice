@@ -15,3 +15,7 @@ springcloud=分布式微服务架构下的一站式解决方案，是各个微�
 
 springboot关注的微观 是对于一个个不同的微服务 
 springcloud关注宏观的微服务协调整理治理框架，它将springboot开发的一个个单体微服务整合并管理起来
+
+
+
+在学习基础上加上了自己的一些配置如 tk.mapper 和 mybatis自动生成相关文件等 并把数据库交互层抽取到api中
