@@ -1,2 +1,17 @@
 # smallservice
 微服务
+什么是微服务
+问服务之间是如何独立通信的
+springcloud和dubbo有哪些区别
+springboot和springcloud请你谈谈对他们的理解
+什么是服务熔断？什么是服务降级
+微服务的优缺点分别是什么？说下你在项目开发中碰到的坑
+你所知道的微服务技术栈有哪些
+eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别
+
+原来使用 dobbo zookeeper nginx等等来实现微服务架构
+
+springcloud=分布式微服务架构下的一站式解决方案，是各个微服务架构落地技术的集合体，俗称微服务全家桶
+
+springboot关注的微观 是对于一个个不同的微服务 
+springcloud关注宏观的微服务协调整理治理框架，它将springboot开发的一个个单体微服务整合并管理起来
