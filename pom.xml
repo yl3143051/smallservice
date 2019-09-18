@@ -10,6 +10,7 @@
   <modules>
     <module>smallserviceapi</module>
     <module>smallserviceproviderdept8001</module>
+      <module>smallserviceconsumerdept80</module>
   </modules>
   <packaging>pom</packaging>
 
