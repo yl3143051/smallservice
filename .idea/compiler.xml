@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="smallserviceapi" />
         <module name="smallserviceconsumerdept80" />
+        <module name="smallserviceeureka7001" />
         <module name="smallserviceproviderdept8001" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="smallservice" target="1.8" />
       <module name="smallserviceapi" target="1.8" />
       <module name="smallserviceconsumerdept80" target="1.8" />
+      <module name="smallserviceeureka7001" target="1.8" />
       <module name="smallserviceproviderdept8001" target="1.8" />
       <module name="spring-cloud-study" target="1.8" />
       <module name="springcloud-study-api" target="1.8" />

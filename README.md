@@ -19,3 +19,18 @@ springcloud关注宏观的微服务协调整理治理框架，它将springboot�
 
 
 在学习基础上加上了自己的一些配置如 tk.mapper 和 mybatis自动生成相关文件等 并把数据库交互层抽取到api中
+
+
+Eureka：
+是什么       Netflix在设计eureka的时候遵循的是AP原则
+原理讲解
+构件步骤
+集群配置
+作为服务注册中心 eureka和zookeeper有什么区别
+
+Eureka是netflix的子模块，也是核心模块之一。eureka是一个基于rest的服务
+用户定位服务，以云端中间层服务发现和故障转移、服务注册与发现对于微服务架构来说是非常重要的，
+有了服务发现与注册，只需要使用服务的标识符，就可以访问到服务，而不需要修改服务调用的配置文件了。功能类似于dubbo的注册中心，比如zookeeper
+
+
+# springboot2以上的eureka的artifactId是spring-cloud-starter-netflix-eureka-server
