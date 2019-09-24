@@ -12,6 +12,8 @@
     <module>smallserviceproviderdept8001</module>
       <module>smallserviceconsumerdept80</module>
       <module>smallserviceeureka7001</module>
+    <module>smallserviceeureka7002</module>
+    <module>smallserviceeureka7003</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -9,6 +9,8 @@
         <module name="smallserviceapi" />
         <module name="smallserviceconsumerdept80" />
         <module name="smallserviceeureka7001" />
+        <module name="smallserviceeureka7002" />
+        <module name="smallserviceeureka7003" />
         <module name="smallserviceproviderdept8001" />
       </profile>
     </annotationProcessing>
@@ -17,6 +19,8 @@
       <module name="smallserviceapi" target="1.8" />
       <module name="smallserviceconsumerdept80" target="1.8" />
       <module name="smallserviceeureka7001" target="1.8" />
+      <module name="smallserviceeureka7002" target="1.8" />
+      <module name="smallserviceeureka7003" target="1.8" />
       <module name="smallserviceproviderdept8001" target="1.8" />
       <module name="spring-cloud-study" target="1.8" />
       <module name="springcloud-study-api" target="1.8" />
