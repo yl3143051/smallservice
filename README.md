@@ -34,3 +34,5 @@ Eureka是netflix的子模块，也是核心模块之一。eureka是一个基于r
 
 
 # springboot2以上的eureka的artifactId是spring-cloud-starter-netflix-eureka-server
+
+# 记笔记的节数 26节 eureka自我保护

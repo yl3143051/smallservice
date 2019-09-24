@@ -43,14 +43,14 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka
-#  instance:
+  instance:
 #    #服务实例名称修改
-#    instance-id: study-springcloud-dept8001
+    instance-id: smallservice-springcloud-dept8001
 #    #访问路径显示IP地址
-#    prefer-ip-address: true
+    prefer-ip-address: true
 #
-#info:
-#  app.name: study-springcloud-micoservices
-#  company.name: www.gxs.com
-#  build.artifactId: ${project.artifactId}
-#  build.version: ${project.version}
+info:
+  app.name: smallservice
+  company.name: www.lee.com
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}
