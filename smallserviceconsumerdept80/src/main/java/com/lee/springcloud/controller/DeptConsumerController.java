@@ -12,7 +12,8 @@ import java.util.List;
 @RequestMapping("/dept/consumer")
 public class DeptConsumerController {
 
-    public static String REST_URL = "http://localhost:8001";
+//    public static String REST_URL = "http://localhost:8001";
+    public static String REST_URL = "http://SMALLSERVICE-SPRINGCLOUD-DEPT";
 
     @Autowired
     private RestTemplate restTemplate;
