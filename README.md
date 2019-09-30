@@ -32,7 +32,14 @@ Eureka是netflix的子模块，也是核心模块之一。eureka是一个基于r
 用户定位服务，以云端中间层服务发现和故障转移、服务注册与发现对于微服务架构来说是非常重要的，
 有了服务发现与注册，只需要使用服务的标识符，就可以访问到服务，而不需要修改服务调用的配置文件了。功能类似于dubbo的注册中心，比如zookeeper
 
-
+Finchley 与 Spring Boot 2.0.x, 兼容，不支持 Spring Boot 1.5.x.
+Dalston 和 Edgware 与 Spring Boot 1.5.x, 兼容，不支持 Spring Boot 2.0.x.
+Camden 是构建在 Spring Boot 1.4.x, 之上，但也支持 1.5.x.
+Brixton 是构建在 Spring Boot 1.3.x, 之上，但也支持 1.4.x.
+Angel 是构建在 Spring Boot 1.2.x, 之上，但也兼容 Spring Boot 1.3.x.
+注意: Angel 和 Brixton 两个版本已于2017年7月终止不再进行维护。
+原文链接：https://blog.csdn.net/guofangsky/article/details/82868564
 # springboot2以上的eureka的artifactId是spring-cloud-starter-netflix-eureka-server
+
 
 # 记笔记的节数 26节 eureka自我保护  29节 eureka 为什么比zookeeper好  30节 ribbon 负载均衡
