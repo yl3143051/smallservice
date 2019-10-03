@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/smallservice.iml" filepath="$PROJECT_DIR$/smallservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" filepath="$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" filepath="$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" filepath="$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" filepath="$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" />
