@@ -20,6 +20,7 @@
       <module>smallserviceproviderdept8001hystrix</module>
       <module>smallserviceconsumerhystrixdashboard</module>
       <module>smallservicezuulgateway9527</module>
+      <module>smallserviceconfig3344</module>
   </modules>
   <packaging>pom</packaging>
 

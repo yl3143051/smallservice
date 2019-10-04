@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="smallserviceapi" />
+        <module name="smallserviceconfig3344" />
         <module name="smallserviceconsumerdept80" />
         <module name="smallserviceconsumerdeptfeigh" />
         <module name="smallserviceconsumerhystrixdashboard" />
@@ -23,6 +24,7 @@
     <bytecodeTargetLevel>
       <module name="smallservice" target="1.8" />
       <module name="smallserviceapi" target="1.8" />
+      <module name="smallserviceconfig3344" target="1.8" />
       <module name="smallserviceconsumerdept80" target="1.8" />
       <module name="smallserviceconsumerdeptfeigh" target="1.8" />
       <module name="smallserviceconsumerhystrixdashboard" target="1.8" />
