@@ -9,12 +9,14 @@
         <module name="smallserviceapi" />
         <module name="smallserviceconfig3344" />
         <module name="smallserviceconfigclient3355" />
+        <module name="smallserviceconfigdeptclient8001" />
         <module name="smallserviceconsumerdept80" />
         <module name="smallserviceconsumerdeptfeigh" />
         <module name="smallserviceconsumerhystrixdashboard" />
         <module name="smallserviceeureka7001" />
         <module name="smallserviceeureka7002" />
         <module name="smallserviceeureka7003" />
+        <module name="smallserviceeurekaconfig7001" />
         <module name="smallserviceproviderdept8001" />
         <module name="smallserviceproviderdept8001hystrix" />
         <module name="smallserviceproviderdept8002" />
@@ -27,12 +29,14 @@
       <module name="smallserviceapi" target="1.8" />
       <module name="smallserviceconfig3344" target="1.8" />
       <module name="smallserviceconfigclient3355" target="1.8" />
+      <module name="smallserviceconfigdeptclient8001" target="1.8" />
       <module name="smallserviceconsumerdept80" target="1.8" />
       <module name="smallserviceconsumerdeptfeigh" target="1.8" />
       <module name="smallserviceconsumerhystrixdashboard" target="1.8" />
       <module name="smallserviceeureka7001" target="1.8" />
       <module name="smallserviceeureka7002" target="1.8" />
       <module name="smallserviceeureka7003" target="1.8" />
+      <module name="smallserviceeurekaconfig7001" target="1.8" />
       <module name="smallserviceproviderdept8001" target="1.8" />
       <module name="smallserviceproviderdept8001hystrix" target="1.8" />
       <module name="smallserviceproviderdept8002" target="1.8" />

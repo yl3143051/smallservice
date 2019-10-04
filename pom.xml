@@ -22,6 +22,8 @@
       <module>smallservicezuulgateway9527</module>
       <module>smallserviceconfig3344</module>
     <module>smallserviceconfigclient3355</module>
+      <module>smallserviceeurekaconfig7001</module>
+    <module>smallserviceconfigdeptclient8001</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -6,12 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" filepath="$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconfig3344/smallserviceconfig3344.iml" filepath="$PROJECT_DIR$/smallserviceconfig3344/smallserviceconfig3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconfigclient3355/smallserviceconfigclient3355.iml" filepath="$PROJECT_DIR$/smallserviceconfigclient3355/smallserviceconfigclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallserviceconfigdeptclient8001/smallserviceconfigdeptclient8001.iml" filepath="$PROJECT_DIR$/smallserviceconfigdeptclient8001/smallserviceconfigdeptclient8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerhystrixdashboard/smallserviceconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/smallserviceconsumerhystrixdashboard/smallserviceconsumerhystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" filepath="$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" filepath="$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" filepath="$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallserviceeurekaconfig7001/smallserviceeurekaconfig7001.iml" filepath="$PROJECT_DIR$/smallserviceeurekaconfig7001/smallserviceeurekaconfig7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8001/smallserviceproviderdept8001.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8001/smallserviceproviderdept8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8001hystrix/smallserviceproviderdept8001hystrix.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8001hystrix/smallserviceproviderdept8001hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8002/smallserviceproviderdept8002.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8002/smallserviceproviderdept8002.iml" />
