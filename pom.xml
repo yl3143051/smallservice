@@ -17,6 +17,7 @@
       <module>smallserviceproviderdept8002</module>
     <module>smallserviceproviderdept8003</module>
       <module>smallserviceconsumerdeptfeigh</module>
+      <module>smallserviceproviderdept8001hystrix</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
 
-@FeignClient(value = "SMALLSERVICE-SPRINGCLOUD-DEPT")
+@FeignClient(value = "SMALLSERVICE-SPRINGCLOUD-DEPT", fallbackFactory = DeptClientServiceFallbackFactory.class)
 public interface DeptClientService {
 
-    @RequestMapping(value = "/dept/list",method = RequestMethod.GET)
+    @RequestMapping(value = "/dept/list", method = RequestMethod.GET)
     List<Dept> list();
 
 

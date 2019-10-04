@@ -1,12 +1,13 @@
+#配置服务器信息
 server:
-  port: 80
-feign:
-  hystrix:
-    enabled: true
+  port: 8001
+  #context-path: /study 配置根目录
 #数据库信息配置
 spring:
+  application:
+    name: smallservice-springcloud-dept  #应用名称
   datasource:
-    url: jdbc:mysql://localhost:3306/study?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
+    url: jdbc:mysql://localhost:3306/cloudDB01?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&verifyServerCertificate=false&useSSL=false
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
@@ -37,8 +38,19 @@ mybatis:
   configuration:
     map-underscore-to-camel-case: true #开启驼峰命名
     cache-enabled: true #开启二级缓存
+#客户端注册进eureka服务列表
 eureka:
   client:
-    register-with-eureka: false
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+#    #服务实例名称修改
+    instance-id: smallservice-springcloud-dept8001-hystrix
+#    #访问路径显示IP地址
+    prefer-ip-address: true
+#
+info:
+  app.name: smallservice
+  company.name: www.lee.com
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}

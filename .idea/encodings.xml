@@ -24,6 +24,7 @@
     <file url="file://$PROJECT_DIR$/smallserviceeureka7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smallserviceeureka7003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smallserviceproviderdept8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallserviceproviderdept8001hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smallserviceproviderdept8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smallserviceproviderdept8003" charset="UTF-8" />
   </component>
