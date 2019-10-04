@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" filepath="$PROJECT_DIR$/smallserviceapi/smallserviceapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdept80/smallserviceconsumerdept80.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" filepath="$PROJECT_DIR$/smallserviceconsumerdeptfeigh/smallserviceconsumerdeptfeigh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallserviceconsumerhystrixdashboard/smallserviceconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/smallserviceconsumerhystrixdashboard/smallserviceconsumerhystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" filepath="$PROJECT_DIR$/smallserviceeureka7001/smallserviceeureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" filepath="$PROJECT_DIR$/smallserviceeureka7002/smallserviceeureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" filepath="$PROJECT_DIR$/smallserviceeureka7003/smallserviceeureka7003.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8001hystrix/smallserviceproviderdept8001hystrix.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8001hystrix/smallserviceproviderdept8001hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8002/smallserviceproviderdept8002.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8002/smallserviceproviderdept8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/smallserviceproviderdept8003/smallserviceproviderdept8003.iml" filepath="$PROJECT_DIR$/smallserviceproviderdept8003/smallserviceproviderdept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallservicezuulgateway9527/smallservicezuulgateway9527.iml" filepath="$PROJECT_DIR$/smallservicezuulgateway9527/smallservicezuulgateway9527.iml" />
     </modules>
   </component>
 </project>
